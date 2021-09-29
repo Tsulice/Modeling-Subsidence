@@ -1,2 +1,2 @@
 # Modeling-Subsidence
-The subsidence risk is the second most important natural disaster after floods in terms of loss in France according to the CCR. This project aims at quantifying the financial loss linked to the Subsidence risk through a modern approach using Machine Learning to compare with the estimations of standard Reserving methods.
+![image](https://user-images.githubusercontent.com/73877146/135266286-8a403de8-478b-47f7-9dcf-4672a03e1683.png)
